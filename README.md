@@ -11,4 +11,4 @@
 ![Local Image](./img/4.png)
 
 3. Call me
-<img src="./img/2.jpg" width="200" height="200">
+<img src="./img/2.jpg" width="300" height="400">
